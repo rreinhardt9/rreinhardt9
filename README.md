@@ -4,7 +4,7 @@
 
 I enjoy Ruby, Open Source, and long walks around the neighborhood 😂
 
-🔭 I’m currently working on a new project called [Demux](https://github.com/lessonly/demux)
+🔭 I’m currently working on a new project called [Demux](https://github.com/lessonly/demux) and trying to build a raspberry PI weather station!
 
 📝 I blog every once in awhile at [reinhardt.io/blog](https://reinhardt.io/blog)
 
