@@ -2,7 +2,7 @@
 
 ## Usage
 
-I enjoy Ruby, Open Source, and long walks around the neighborhood 😂
+I enjoy Ruby, open source, and long walks around the neighborhood 😂
 
 🔭 I’m currently working on a new project called [Demux](https://github.com/lessonly/demux) and trying to build a raspberry PI weather station!
 
